@@ -1,0 +1,10 @@
+C:\Users\xzylr\source\repos\HUGE tax calculator\HUGE tax calculator\bin\Release\HUGE tax calculator.exe.config
+C:\Users\xzylr\source\repos\HUGE tax calculator\HUGE tax calculator\bin\Release\HUGE tax calculator.exe
+C:\Users\xzylr\source\repos\HUGE tax calculator\HUGE tax calculator\bin\Release\HUGE tax calculator.pdb
+C:\Users\xzylr\source\repos\HUGE tax calculator\HUGE tax calculator\obj\Release\HUGE tax calculator.csprojAssemblyReference.cache
+C:\Users\xzylr\source\repos\HUGE tax calculator\HUGE tax calculator\obj\Release\HUGE_tax_calculator.Form1.resources
+C:\Users\xzylr\source\repos\HUGE tax calculator\HUGE tax calculator\obj\Release\HUGE_tax_calculator.Properties.Resources.resources
+C:\Users\xzylr\source\repos\HUGE tax calculator\HUGE tax calculator\obj\Release\HUGE tax calculator.csproj.GenerateResource.cache
+C:\Users\xzylr\source\repos\HUGE tax calculator\HUGE tax calculator\obj\Release\HUGE tax calculator.csproj.CoreCompileInputs.cache
+C:\Users\xzylr\source\repos\HUGE tax calculator\HUGE tax calculator\obj\Release\HUGE tax calculator.exe
+C:\Users\xzylr\source\repos\HUGE tax calculator\HUGE tax calculator\obj\Release\HUGE tax calculator.pdb
